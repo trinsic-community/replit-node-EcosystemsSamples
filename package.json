@@ -1,0 +1,14 @@
+{
+  "name": "ecosystemssamples",
+  "version": "1.0.0",
+  "description": "You've just created a new Nix repl. There's not much here yet but with a little work you can use it as the starting point for *ANYTHING*.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@trinsic/trinsic": "^1.4.0"
+  }
+}
